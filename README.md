@@ -5,4 +5,4 @@ Données publiques provenant du site de [Santé Publique France](https://www.san
 Les infographies des points de situation quotidiens sont disponibles dans le dossier `chiffres-quotidiens`.  
 Il manque quelques images dans les premiers temps (février et début mars).
 
-Les données publiées concernant les établissements sociaux et médico-sociaux ont été regroupées dans un fichier au format CSV.
+Les données publiées concernant les établissements sociaux et médico-sociaux sont complétées avec les données de [opencovid19-fr](https://github.com/opencovid19-fr/data) et regroupées dans un fichier au format CSV.
